@@ -1,0 +1,21 @@
+add 307193001 307193001|Velazquez|Jackson|CSC
+add 861800681 861800681|Martinez|Ava|Eng
+add 445846443 445846443|Noel|Emma|St
+add 143200147 143200147|Velazquez|Aiden|Eng
+add 707501190 707501190|Williams|Sophia|For
+add 610964732 610964732|Anderson|Ethan|Ma
+add 335450878 335450878|Puckett|Jayden|Soc
+add 747423886 747423886|Forbes|Isabella|Mea
+add 582254152 582254152|Harris|Chloe|For
+add 492091401 492091401|Boyle|Aubrey|St
+find 707501190
+find 920639442
+find 143200147
+find 601026021
+add 307193001 307193001|Last|First|Major
+add 143200147 143200147|Last|First|Major
+del 861800681
+del 798165541
+del 335450878
+del 253408810
+end

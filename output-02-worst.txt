@@ -1,0 +1,25 @@
+Record with SID=307193001 exists
+Record with SID=859467910 exists
+307193001|Velazquez|Jackson|CSC
+331937828|Short|Name|St
+No record with SID=572140722 exists
+445846443|Noel|Emma|St
+859467910|Short|Name|St
+No record with SID=365411233 exists
+No record with SID=307601596 exists
+Index:
+key=143200147: offset=91
+key=307193001: offset=0
+key=331937828: offset=35
+key=445846443: offset=65
+key=492091401: offset=283
+key=582254152: offset=253
+key=610964732: offset=157
+key=707501190: offset=124
+key=859467910: offset=188
+Availability:
+size=33: offset=220
+size=5: offset=215
+size=3: offset=62
+Number of holes: 3
+Hole space: 41
